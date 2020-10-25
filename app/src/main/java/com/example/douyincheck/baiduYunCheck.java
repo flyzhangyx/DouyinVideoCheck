@@ -12,9 +12,9 @@ import org.json.JSONObject;
 public class baiduYunCheck {
     static AipContentCensor client;
     //设置APPID/AK/SK
-    public static final String APP_ID = "22860053";
-    public static final String API_KEY = "na1bnGErbF3U0PIei5vnlkox";
-    public static final String SECRET_KEY = "6IqOPzaUGSqpCPNQR43P4n79xOUfGulZ";
+    public static final String APP_ID = "88";
+    public static final String API_KEY = "88vnlkox";
+    public static final String SECRET_KEY = "888UfGulZ";
 
     public baiduYunCheck() {
         // 初始化一个AipContentCensor
